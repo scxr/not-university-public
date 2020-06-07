@@ -1,0 +1,27 @@
+@tailwind base;
+
+@font-face {
+    src: url("/fonts/Natural Solid.ttf") format("truetype");
+    font-family: Natural;
+}
+
+@font-face {
+    src: url("/fonts/BaronNeue-Regular.otf") format("opentype");
+    font-family: Baron;
+}
+
+@font-face {
+    src: url("/fonts/BaronNeue-Italic.otf") format("opentype");
+    font-family: Baron;
+    font-style: italic;
+}
+
+@font-face {
+    src: url("/fonts/BaronNeue-Bold.otf") format("opentype");
+    font-family: Baron;
+    font-weight: bold;
+}
+
+@tailwind components;
+
+@tailwind utilities;
