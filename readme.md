@@ -1,5 +1,8 @@
 
 ## not univeristy hackathon - 2020
+## Our inspiration
+
+After my father helped me plant a little seedling, I believe it was mint, for days we struggled to water it in our dry climate and protect it from the harsh rays of the sun. I realized that the joy of home gardening is often spoiled by natural factors like sunlight and especially lack of water. After more research I discovered that poor water quality causes the US to be ranked 7th (i think) in overall water quality.This is why for this hackathon we have decided to make a website that would account for those factor so that gardening would be available for everyone regardless of water conditions and help us save more water whilst doing something productive.
 
 ## What it does
 ### The base idea
@@ -97,3 +100,5 @@ We decided to completely split off the frontend development from the backend and
 ## What's next for green space
 - Extend our dataset to support more countires around the globe
 - Add more plants of different types to our database
+
+You can find our code at this repo: https://github.com/cswil/not-university-public (all secrets redacted :p)
